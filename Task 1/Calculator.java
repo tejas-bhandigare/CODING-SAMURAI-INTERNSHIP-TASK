@@ -19,7 +19,7 @@ public class Calculator {
         System.out.print("Choose an operator (1-4): ");
         int operator = sc.nextInt();
 
-        // Get input numbers 
+        // Get input numbers
         System.out.print("Enter the first number: ");
         int n1 = sc.nextInt();
 
